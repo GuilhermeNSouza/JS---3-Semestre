@@ -53,5 +53,5 @@ class Stack {
   atv1.push (2)
   atv1.size ()
   atv1.isEmpty ()
-  const topElement = atv1.peek ()
-  console.log("Topo: " + topElement)
+  const atv1Topo = atv1.peek ()
+  console.log("Topo: " + atv1Topo)
